@@ -47,7 +47,7 @@ https://github.com/andreyshes/HoriseonSocialSolutionServices
 
 ## Visuals
 ```
-<img src="./Develop/assets/images/site.jpeg" alt="web image">
+<img src="develop/assets/images/site.jpeg" alt="web image">
 
 
 
