@@ -47,7 +47,7 @@ https://andreyshes.github.io/HoriseonSocialSolutionServices/
 
 ## Visuals
 ```
-<img src="assets/images/brand-awareness.png" alt="web image">
+<img src="./assets/images/brand-awareness.png" alt="web image">
 
 
 
