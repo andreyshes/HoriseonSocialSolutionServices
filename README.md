@@ -43,7 +43,7 @@ THEN I find a concise, descriptive title
 Direct to the following link:
 https://andreyshes.github.io/HoriseonSocialSolutionServices/
 
-https://github.com/andreyshes/HoriseonSocialSolutionServices
+
 
 ## Visuals
 ```
