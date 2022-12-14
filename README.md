@@ -43,12 +43,12 @@ THEN I find a concise, descriptive title
 Direct to the following link:
 https://andreyshes.github.io/HoriseonSocialSolutionServices/
 
-<img src="./assets/images/brand-awareness.png" alt="web image">
+
 
 ## Visuals
-```
 
 
+<img src="./assets/images/site.jpeg" alt="web image">
 
 
 
