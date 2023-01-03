@@ -3,7 +3,7 @@
 
 
 ## Description
-```
+
 What I've done was changed the tags that weren't as descriptive, essentially
 adding semantic html tags in order to make the user experience much easier
 to natvigate through the page. In additon to have added the semantic tags
@@ -15,7 +15,7 @@ alt desciptions weere added as well for pictures that don't load or for the visu
 
 
 ## User Story
-```
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -24,7 +24,7 @@ SO THAT our own site is optimized for search engines
 
 
 ## Acceptance Criteria
-```
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 
 
 ## Usuage
-```
+
 Direct to the following link:
 https://andreyshes.github.io/HoriseonSocialSolutionServices/
 
